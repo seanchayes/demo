@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "gifts": [
+    { "id": 1, "name": "Adam" },
+    { "id": 2, "name": "Paul" },
+    { "id": 3, "name": "John" },
+    { "id": 4, "name": "Sean" },
+  ]
 }
