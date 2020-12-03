@@ -9,10 +9,10 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "gifts": [
-    { "id": 1, "name": "Adam" },
-    { "id": 2, "name": "Paul" },
-    { "id": 3, "name": "John" },
-    { "id": 4, "name": "Sean" }
+    { "id": 1, "name": "Adam", "gift": "Basketball" },
+    { "id": 2, "name": "Paul", "gift": "Kicks" },
+    { "id": 3, "name": "John", "gift": "Hoops" },
+    { "id": 4, "name": "Sean", "gift": "Gear" }
   ],
   "profile": {
     "name": "sean"
